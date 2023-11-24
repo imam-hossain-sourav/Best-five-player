@@ -1,0 +1,178 @@
+.first-section{
+    display: flex;
+    background-color: black;
+}
+.header{
+    color: red;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Calligraffitti', cursive;
+    font-family: 'Handlee', cursive;
+    font-weight: 900;
+   
+}
+.text{
+    margin-left: 170px;
+    margin-right: -50px;
+    margin-top: 110px;
+}
+p{
+    text-align: center;
+    font-size: 16.6px;
+    color: white;
+}
+.first-image{
+    width: 200px;
+    height: 300px;
+    margin-top: 90px;
+}
+.third-image{
+    width: 90px;
+    height: 90px;
+    margin-left: -200px; 
+}
+.fourth-image{
+    width: 150px;
+    height: 150px;
+    margin-top: 40px;
+    box-shadow: 0 0 20px #F7F4F4;
+}
+.fifth-image{
+    background-color: black;
+    margin-left: 98px;
+    margin-top: -28px;
+}
+.overlap-picture{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.name{
+    margin-left: 50px;
+    padding-top: 5%;
+} 
+.Goal{
+    margin-left: 46px;
+    padding: 5px 0px;
+}
+.button{
+    margin-left: 14%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+} 
+.first{
+    width: 70%;
+}
+.second{
+    width: 70%;
+    margin-top: -2.5%;
+}
+.third{
+    width: 70%;
+    margin-top: 7%;
+}
+.fourth{
+    margin-left: 8%;
+}
+.height{
+    height: 65.5%;
+}
+.fifth{
+    margin-top: -3%;
+    margin-left: 8%;
+}
+.high{
+    height: 71%;
+}
+.sixth{
+    width: 79.5%;
+    margin-left: 8%;
+    margin-top: 7%;
+}
+.seventh-high{
+    margin-left: -5%;
+    height: 65.8%;
+}
+.seventh{
+    margin-left: -5%;
+    margin-top: 0%;
+    border-top: 1px solid white;
+}
+.eight{
+    margin-left: -5%;
+    margin-top: -3%;
+    margin-bottom: 5%;
+    height: 144%;
+}
+.eight-high{
+    width: 75.5%;
+}
+.nine{
+    width: 79%;
+    margin-top: 7%;
+    margin-left: -5%;
+}
+.image-height{
+    height: 50%;
+}
+.select{
+    margin-left: -17%;
+    width: 88%;
+    height: 55%;
+    padding-bottom: 5%;
+    overflow: scroll;
+}
+.selected{
+    margin-top: 9%;
+    margin-left: -17%;
+    width: 88%;
+    padding: 15px 0px;
+}
+.line{
+    width: 88%;
+    margin-left: -17%;
+}
+.border{
+    border: .1px solid white;
+}
+.eleven{
+    background-color: black;
+    margin-top: -35%;
+    margin-left: -17.7%;
+    margin-right: 55%;
+    height: 115%;
+    width: 90%;
+}
+.padding{
+    padding: 8px 34px;
+    margin-left: 117px;
+
+}
+.font{
+    font-size: 18px;
+    padding-left: 15px;
+}
+input{
+    width: 50%;
+}
+.text{
+    color: red;
+}
+.expense{
+    font-size: 25px;
+}
+.Total{
+    color: white;
+    font-size: 25px;
+}
+.mar{
+    margin-left: 35%;
+}
+
+
+
+
+
+
+
+
+
